@@ -1,0 +1,676 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-09 21:10+0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: class/class-themereps-helper.php:196
+msgid "Themereps Helper"
+msgstr ""
+
+#: class/class-themereps-helper.php:258
+msgid ""
+"Themereps Helper Demo Import Feature is not working because you need to "
+"activate Advanced Import Plugin."
+msgstr ""
+
+#: class/class-themereps-helper.php:260
+msgid "Activate Advanced Import Now"
+msgstr ""
+
+#: inc/functions.php:38
+msgid "Grid Main"
+msgstr ""
+
+#: inc/functions.php:41
+msgid "Themereps"
+msgstr ""
+
+#: inc/hooks.php:81
+msgid "Demo Import "
+msgstr ""
+
+#: inc/hooks.php:81
+msgid "Demo Import"
+msgstr ""
+
+#: inc/hooks.php:108
+msgid "Processing..."
+msgstr ""
+
+#: inc/hooks.php:128
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s! To get started with ready-made starter "
+"site templates. Install the Advanced Import plugin and install Demo Starter "
+"Site within a single click"
+msgstr ""
+
+#: inc/hooks.php:132
+msgid ""
+"Clicking the button below will install and activate the Advanced Import "
+"plugin."
+msgstr ""
+
+#: inc/hooks.php:134
+msgid "Get started with the Theme"
+msgstr ""
+
+#: inc/hooks.php:135
+msgid "Get Started"
+msgstr ""
+
+#: inc/hooks.php:169
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: inc/hooks.php:237
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr ""
+
+#: inc/register-menu.php:33
+msgid "Dashboard"
+msgstr ""
+
+#: inc/register-metaboxes.php:6
+msgid "Client Name"
+msgstr ""
+
+#: inc/register-metaboxes.php:8
+msgid "Location"
+msgstr ""
+
+#: inc/register-metaboxes.php:10
+msgid "Starting Date"
+msgstr ""
+
+#: inc/register-metaboxes.php:12
+msgid "Closing Date"
+msgstr ""
+
+#: inc/register-metaboxes.php:14
+msgid "Budget"
+msgstr ""
+
+#: inc/register-metaboxes.php:211
+msgid "PlanInfo"
+msgstr ""
+
+#: inc/register-posttype.php:19
+msgid "Pricing Plans"
+msgstr ""
+
+#: inc/register-posttype.php:20
+msgid "Pricing Plan"
+msgstr ""
+
+#: inc/register-posttype.php:21
+msgid "All Plans"
+msgstr ""
+
+#: inc/register-posttype.php:22
+msgid "Edit Plans"
+msgstr ""
+
+#: inc/register-posttype.php:23
+msgid "Update Plans"
+msgstr ""
+
+#: inc/register-posttype.php:24
+msgid "Add New Plans"
+msgstr ""
+
+#: inc/register-posttype.php:25
+msgid "New Plans"
+msgstr ""
+
+#: inc/register-posttype.php:46
+msgctxt "Portfolio"
+msgid "Portfolios"
+msgstr ""
+
+#: inc/register-posttype.php:47
+msgctxt "Portfolio"
+msgid "Portfolio"
+msgstr ""
+
+#: inc/register-posttype.php:48
+msgctxt "Admin Menu text"
+msgid "Portfolios"
+msgstr ""
+
+#: inc/register-posttype.php:49
+msgctxt "Add New on Toolbar"
+msgid "Portfolios"
+msgstr ""
+
+#: inc/register-posttype.php:50
+msgid "Add New"
+msgstr ""
+
+#: inc/register-posttype.php:51
+msgid "Add New Portfolio"
+msgstr ""
+
+#: inc/register-posttype.php:52
+msgid "New Portfolio"
+msgstr ""
+
+#: inc/register-posttype.php:53
+msgid "Edit Portfolio"
+msgstr ""
+
+#: inc/register-posttype.php:54
+msgid "View Portfolio"
+msgstr ""
+
+#: inc/register-posttype.php:55
+msgid "All Portfolios"
+msgstr ""
+
+#: inc/register-posttype.php:56
+msgid "Search Portfolios"
+msgstr ""
+
+#: inc/register-posttype.php:57
+msgid "Parent Portfolios:"
+msgstr ""
+
+#: inc/register-posttype.php:58
+msgid "No portfolio found."
+msgstr ""
+
+#: inc/register-posttype.php:85
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr ""
+
+#: inc/register-posttype.php:86
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+#: inc/register-posttype.php:87
+msgid "Categories"
+msgstr ""
+
+#: inc/register-posttype.php:88
+msgid "Search Categories"
+msgstr ""
+
+#: inc/register-posttype.php:89
+msgid "All Categories"
+msgstr ""
+
+#: inc/register-posttype.php:90
+msgid "Parent Category"
+msgstr ""
+
+#: inc/register-posttype.php:91
+msgid "Parent Category:"
+msgstr ""
+
+#: inc/register-posttype.php:92
+msgid "Edit Category"
+msgstr ""
+
+#: inc/register-posttype.php:93
+msgid "Update Category"
+msgstr ""
+
+#: inc/register-posttype.php:94
+msgid "Add New Category"
+msgstr ""
+
+#: inc/register-posttype.php:95
+msgid "New Category"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:3 inc/dashboard/dashboard.php:3
+msgid "Welcome to the Themereps Helper Dashboard"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:8 inc/dashboard/dashboard.php:8
+msgid ""
+"Themereps Helper is the companion plugin for the themes of BootItems, which "
+"provides core functionlity and demo content import facility for the "
+"Themereps themes."
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:20 inc/dashboard/dashboard.php:20
+msgid "MORE INFO"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:31 inc/dashboard/dashboard.php:31
+msgid "VIEW DEMO"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:41 inc/dashboard/dashboard.php:41
+msgid "VIEW DOCUMENTATION"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:52 inc/dashboard/dashboard.php:52
+msgid "ASK FOR SUPPORT"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:62 inc/dashboard/dashboard.php:62
+msgid "RATE OUR THEME"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:72 inc/dashboard/dashboard.php:72
+msgid "VIEW CHANGELOGS"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:81 inc/dashboard/dashboard.php:81
+msgid "Why should you Upgrade to premium version?"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:86 inc/dashboard/dashboard.php:86
+msgid "Feature"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:87 inc/dashboard/dashboard.php:87
+msgid "Free"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:88 inc/dashboard/dashboard.php:88
+msgid "Premium"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:93 inc/dashboard/dashboard.php:93
+msgid "Favicon, Logo, Title and Tagline Customization"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:98 inc/dashboard/dashboard.php:98
+msgid "Customizer Theme Options"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:104 inc/dashboard/dashboard.php:104
+msgid "Top Bar"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:109 inc/dashboard/dashboard.php:109
+msgid "Responsive Design"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:114 inc/dashboard/dashboard.php:114
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:119 inc/dashboard/dashboard.php:119
+msgid "Sidebar Options (Full, Left and Right)"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:124 inc/dashboard/dashboard.php:124
+msgid "Related Posts"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:129 inc/dashboard/dashboard.php:129
+msgid "1 Click Demo Import"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:134 inc/dashboard/dashboard.php:134
+msgid "Preloader"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:139 inc/dashboard/dashboard.php:139
+msgid "BacktoTop Button"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:144
+msgid "Header Layouts"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:145 inc/dashboard/dashboard-bizes.php:150
+msgid "1"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:146
+msgid "3"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:149
+msgid "Footer Layouts"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:151
+msgid "2"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:154
+msgid "Home Slides"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:155 inc/dashboard/dashboard.php:150
+msgid "Limited(2)"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:156 inc/dashboard/dashboard.php:151
+msgid "Unlimited"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:159 inc/dashboard/dashboard.php:144
+msgid "Color Settings"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:160 inc/dashboard/dashboard.php:145
+msgid "Limited"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:161 inc/dashboard/dashboard.php:146
+msgid "Extended"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:164 inc/dashboard/dashboard.php:154
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:170 inc/dashboard/dashboard.php:164
+msgid "Typography Settings"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:175 inc/dashboard/dashboard.php:169
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:180 inc/dashboard/dashboard.php:174
+msgid "WooCommerce Extra Settings"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:185 inc/dashboard/dashboard.php:185
+msgid "Megamenu"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:190 inc/dashboard/dashboard.php:190
+msgid "Team Section"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:195 inc/dashboard/dashboard.php:195
+msgid "Brand Logos Section"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:200 inc/dashboard/dashboard.php:200
+msgid "3 Custom Widgets"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:205 inc/dashboard/dashboard.php:205
+msgid "Section Re-order"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:210 inc/dashboard/dashboard.php:210
+msgid "PRO Demos"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:215 inc/dashboard/dashboard.php:215
+msgid "Priority Support"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:222 inc/dashboard/dashboard.php:222
+msgid "Buy PRO at $39 only"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:235 inc/dashboard/dashboard.php:236
+msgid " Please "
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:235 inc/dashboard/dashboard.php:236
+msgid "rate our theme"
+msgstr ""
+
+#: inc/dashboard/dashboard-bizes.php:236 inc/dashboard/dashboard.php:237
+msgid "★★★★★ to help us spread the word. Thank you from the Themereps team!"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:149
+msgid "Slides"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:159
+msgid "Header 2 Layouts"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:179
+msgid "Testimonial Slider"
+msgstr ""
+
+#: inc/menu/megamenu_edit_walker.php:70
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: inc/menu/megamenu_edit_walker.php:74
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: inc/menu/megamenu_edit_walker.php:96
+msgid "Move up"
+msgstr ""
+
+#: inc/menu/megamenu_edit_walker.php:109
+msgid "Move down"
+msgstr ""
+
+#: inc/menu/megamenu_edit_walker.php:111 inc/menu/megamenu_edit_walker.php:113
+msgid "Edit Menu Item"
+msgstr ""
+
+#: inc/menu/megamenu_edit_walker.php:121
+msgid "URL"
+msgstr ""
+
+#: inc/menu/megamenu_edit_walker.php:128
+msgid "Navigation Label"
+msgstr ""
+
+#: inc/menu/megamenu_edit_walker.php:135
+msgid "Title Attribute"
+msgstr ""
+
+#: inc/menu/megamenu_edit_walker.php:142
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: inc/menu/megamenu_edit_walker.php:147
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: inc/menu/megamenu_edit_walker.php:153
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: inc/menu/megamenu_edit_walker.php:159
+msgid "Description"
+msgstr ""
+
+#: inc/menu/megamenu_edit_walker.php:161
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: inc/menu/megamenu_edit_walker.php:169
+msgid "Font Icon"
+msgstr ""
+
+#: inc/menu/megamenu_edit_walker.php:172
+msgid ""
+"Put only font-awesome class name.  such as ( fa fa-leaf ) not anything else."
+msgstr ""
+
+#: inc/menu/megamenu_edit_walker.php:178
+msgid "Enable MegaMenu"
+msgstr ""
+
+#: inc/menu/megamenu_edit_walker.php:185
+msgid "Disable Column Title"
+msgstr ""
+
+#: inc/menu/megamenu_edit_walker.php:191
+msgid "Number of Columns "
+msgstr ""
+
+#: inc/menu/megamenu_edit_walker.php:208
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: inc/menu/megamenu_edit_walker.php:221
+msgid "Remove"
+msgstr ""
+
+#: inc/menu/megamenu_edit_walker.php:222
+msgid "Cancel"
+msgstr ""
+
+#: inc/widgets/about-info.php:18
+msgid "Themereps - About Info"
+msgstr ""
+
+#: inc/widgets/about-info.php:21
+msgid "A widget that displays logo with short description."
+msgstr ""
+
+#: inc/widgets/about-info.php:36 inc/widgets/contact-info.php:36
+#: inc/widgets/recent-posts.php:37 inc/widgets/social-profiles.php:39
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/about-info.php:42
+msgid "Image URL:"
+msgstr ""
+
+#: inc/widgets/about-info.php:48
+msgid "Description:"
+msgstr ""
+
+#: inc/widgets/contact-info.php:18
+msgid "Themereps - Contact Us"
+msgstr ""
+
+#: inc/widgets/contact-info.php:21
+msgid "Show contact information on widget area."
+msgstr ""
+
+#: inc/widgets/contact-info.php:41
+msgid "Address:"
+msgstr ""
+
+#: inc/widgets/contact-info.php:46
+msgid "Phone Number:"
+msgstr ""
+
+#: inc/widgets/contact-info.php:51
+msgid "Email Address:"
+msgstr ""
+
+#: inc/widgets/contact-info.php:62 inc/widgets/contact-info.php:73
+msgid "Contact Us"
+msgstr ""
+
+#: inc/widgets/contact-info.php:92
+msgid "Call Now"
+msgstr ""
+
+#: inc/widgets/contact-info.php:96
+msgid "Email Us"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:18
+msgid "Themereps - Recent Posts"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:21
+msgid "Display most recent post on widget area"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:42
+msgid ""
+"Enter categroy name, multiple names should be separated by comma or leave "
+"empty to show latest posts:"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:47
+msgid "Number of Posts:"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:57 inc/widgets/recent-posts.php:66
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets/social-profiles.php:18
+msgid "Themereps - Social Profiles"
+msgstr ""
+
+#: inc/widgets/social-profiles.php:21
+msgid "Display your social profile on widget areas"
+msgstr ""
+
+#: inc/widgets/social-profiles.php:44
+msgid "Facebook:"
+msgstr ""
+
+#: inc/widgets/social-profiles.php:49
+msgid "Twitter:"
+msgstr ""
+
+#: inc/widgets/social-profiles.php:54
+msgid "Instagram:"
+msgstr ""
+
+#: inc/widgets/social-profiles.php:59
+msgid "Linkedin:"
+msgstr ""
+
+#: inc/widgets/social-profiles.php:64
+msgid "Pinterest:"
+msgstr ""
+
+#: inc/widgets/social-profiles.php:69
+msgid "Youtube:"
+msgstr ""
+
+#: inc/widgets/social-profiles.php:79
+msgid "Working Hours"
+msgstr ""
+
+#: inc/widgets/social-profiles.php:93
+msgid "Follow Us"
+msgstr ""
+
+#: inc/widgets/social-profiles.php:110
+msgid "Facebook"
+msgstr ""
+
+#: inc/widgets/social-profiles.php:113
+msgid "Twitter"
+msgstr ""
+
+#: inc/widgets/social-profiles.php:116
+msgid "Instagram"
+msgstr ""
+
+#: inc/widgets/social-profiles.php:119
+msgid "Linkedin"
+msgstr ""
+
+#: inc/widgets/social-profiles.php:122
+msgid "Pinterest"
+msgstr ""
+
+#: inc/widgets/social-profiles.php:125
+msgid "Youtube"
+msgstr ""
